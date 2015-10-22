@@ -1,0 +1,3 @@
+include setup.py
+
+recursive-include ironic_panel/templates *
